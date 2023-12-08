@@ -1,5 +1,5 @@
 # Bachat-Finance-Tracker
-Finance Tracker web application project I built using HTML CSS and PHP. More about the project in the ppt along with it. You can use xampp to download and run this application by yourself.
+Finance Tracker web application project I built using HTML CSS and PHP. More about the project in the pdf file uploaded along with it. You can use xampp to download and run this application by yourself.
 
 <h1>Steps to download and run this application</h1>
 <ol><li>
